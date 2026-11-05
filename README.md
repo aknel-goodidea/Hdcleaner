@@ -206,3 +206,6 @@ This repository serves as the official landing page for HDCleaner. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HDCleaner today!**
+
+---
+**Last updated:** 2026-11-05 23:16:32 UTC
