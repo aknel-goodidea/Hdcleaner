@@ -208,4 +208,4 @@ This repository serves as the official landing page for HDCleaner. The software 
 **Get the most recent version of HDCleaner today!**
 
 ---
-**Last updated:** 2026-11-10 22:52:09 UTC
+**Last updated:** 2026-11-11 02:32:39 UTC
